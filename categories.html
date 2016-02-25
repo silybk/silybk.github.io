@@ -19,7 +19,7 @@ permalink: /categories/
 
 <div class="article">
 {% for category in site.categories %} 
-  <h6  class="article-year" id="{{ category[0] }}-ref" data-year="&diams;">{{ category[0] | join: "/" }}</h6>
+  <p  class="article-year" id="{{ category[0] }}-ref" data-year="&diams;">{{ category[0] | join: "/" }}</p>
   <ul style="list-style: none">
     {% assign pages_list = category[1] %}  
     {% for node in pages_list %}
