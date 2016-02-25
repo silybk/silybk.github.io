@@ -1,7 +1,6 @@
 ---
 layout:   post
 title:    emacs-tutorial-zh
-author:   alicesily
 tags:     [emacs,tutorial]
 header-img:      http://7xr5vo.com1.z0.glb.clouddn.com/post-bg-rwd.jpg
 categories: [emacs]
