@@ -6,11 +6,11 @@ permalink: /categories/
 ---
 <article class="hentry">
 <div class="article">
-    <h5 class="title">{{ page.title }}</h5>
+    <h6 class="title">{{ page.title }}</h6>
     <ul class="categories">
     {% assign categories_list = site.categories %}
     {% for category in categories_list %}
-        <li class="categories-item"><a style="color:#222;font-size: 16px;font-weight:bold;" href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category[0] }}-ref">
+        <li class="categories-item"><a style="color:#222;font-size: 15px;font-weight:bold;" href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category[0] }}-ref">
             {{ category[0] | join: "/" }}
         <span>{{ category[1].size }}</span></a>
 		</li>
@@ -19,7 +19,7 @@ permalink: /categories/
 
 <div class="article">
 {% for category in site.categories %} 
-  <p  class="article-year" id="{{ category[0] }}-ref" data-year="&diams;">{{ category[0] | join: "/" }}</p>
+  <h6  class="article-year" id="{{ category[0] }}-ref" data-year="&diams;">{{ category[0] | join: "/" }}</h6>
   <ul style="list-style: none">
     {% assign pages_list = category[1] %}  
     {% for node in pages_list %}
