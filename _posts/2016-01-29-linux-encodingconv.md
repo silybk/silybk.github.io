@@ -3,8 +3,8 @@ layout:		post
 title:		"linux编码转换"
 subtitle:	"GBK->UTF-8"
 date:		2016-01-29
-author:		"alicesily"
-header-img:	"img/contact-bg.jpg"
+author:		"silybk"
+header-img:	http://7xr5vo.com1.z0.glb.clouddn.com/contact-bg.jpg
 tags:		[linux]
 categories: 	[linux]
 ---
