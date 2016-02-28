@@ -18,7 +18,6 @@ categories: [linux]
 
 安装就不说了.
 
-以archlinux为例：
 
 * 首先先查看你的网卡
 
