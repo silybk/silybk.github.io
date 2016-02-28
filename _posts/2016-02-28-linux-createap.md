@@ -2,7 +2,7 @@
 layout: post
 title: linux下创建热点
 subtitle: create_ap
-header-img: 
+header-img: http://7xr5vo.com1.z0.glb.clouddn.com/2016-02-28.jpg-bg
 tags: [linux]
 categories: [linux]
 ---
