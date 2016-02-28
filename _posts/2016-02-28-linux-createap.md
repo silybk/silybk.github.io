@@ -57,7 +57,7 @@ wlp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
 
 ## Examples
 
->No passphrase (open network):
+>* No passphrase (open network):
 
 >create_ap wlan0 eth0 MyAccessPoint
 
@@ -67,14 +67,15 @@ wlp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
 sudo create_ap wlp3s0 enp2s0 MyAccessPoint
 ~~~
 
-那么
-WPA + WPA2 passphrase:
+那么带密码：
+
+* WPA + WPA2 passphrase:
 
 ~~~
 sudo create_ap wlp3s0 enp2s0 MyAccessPoint MyPassPhrase
 ~~~
 
-Internet sharing from the same WiFi interface:
+* Internet sharing from the same WiFi interface:
 
 ~~~
 sudo create_ap wlp3s0 wlp3s0 MyAccessPoint MyPassPhrase
