@@ -13,6 +13,7 @@ categories: [linux]
 ## create_ap
 
 先甩个链接：
+
 >https://github.com/oblique/create_ap
 
 安装就不说了.
@@ -68,12 +69,14 @@ sudo create_ap wlp3s0 enp2s0 MyAccessPoint
 
 那么
 WPA + WPA2 passphrase:
+
 ~~~
 sudo create_ap wlp3s0 enp2s0 MyAccessPoint MyPassPhrase
 ~~~
 
 Internet sharing from the same WiFi interface:
+
 ~~~
 sudo create_ap wlp3s0 wlp3s0 MyAccessPoint MyPassPhrase
 ~~~
-感觉常用的就这三个
+感觉常用的就这三个.
