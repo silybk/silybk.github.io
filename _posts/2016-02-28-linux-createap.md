@@ -57,7 +57,7 @@ wlp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
 
 ## Examples
 
->* No passphrase (open network):
+* No passphrase (open network):
 
 >create_ap wlan0 eth0 MyAccessPoint
 
