@@ -71,6 +71,7 @@ WPA + WPA2 passphrase:
 ~~~
 sudo create_ap wlp3s0 enp2s0 MyAccessPoint MyPassPhrase
 ~~~
+
 Internet sharing from the same WiFi interface:
 ~~~
 sudo create_ap wlp3s0 wlp3s0 MyAccessPoint MyPassPhrase
