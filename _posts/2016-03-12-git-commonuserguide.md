@@ -8,7 +8,7 @@ categories:			[tutorial]
 # 新手教程
 ***
 
-###注册一个帐号
+### 注册一个帐号
 
 * example
 
