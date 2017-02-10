@@ -70,7 +70,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 ba_track_id: abd8127cc21b3f66df3099979edc3ab3
 # Google Analytics
 ga_track_id: 'UA-72649479-1'            # Format: UA-xxxxxx-xx
-ga_domain: sily.club
+ga_domain: gaojx.me
 
 
 
