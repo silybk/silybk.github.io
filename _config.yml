@@ -1,11 +1,11 @@
 # Site settings
-title: Jx.Gao
-SEOTitle: silybk
+title: silybk空间
+SEOTitle: silybk空间
 header-img: http://7xr5vo.com1.z0.glb.clouddn.com/post-bg-universe.jpg
 email: silybk@gmail.com
 description: 
 keyword: 
-url:  "http://idx.pw"            # your host, for absolute URL
+url:  "http://gh60.cn"            # your host, for absolute URL
 baseurl:  ""                           
 # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -67,10 +67,10 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: abd8127cc21b3f66df3099979edc3ab3
+# ba_track_id: abd8127cc21b3f66df3099979edc3ab3
 # Google Analytics
-ga_track_id: 'UA-72649479-1'            # Format: UA-xxxxxx-xx
-ga_domain: gaojx.me
+# ga_track_id: 'UA-72649479-1'            # Format: UA-xxxxxx-xx
+# ga_domain: gaojx.me
 
 
 
